@@ -1,0 +1,5 @@
+Table_Name: omar
+Columns_No.: 2
+Tables_Columns: id name
+Columns_DataType: int string
+PK_of_the_Table: id
